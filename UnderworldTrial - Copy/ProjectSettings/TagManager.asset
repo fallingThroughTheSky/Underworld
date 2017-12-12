@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Fire
   - EthanBody
+  - Sword
+  - Enemy
   layers:
   - Default
   - TransparentFX
